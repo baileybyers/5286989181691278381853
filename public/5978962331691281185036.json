@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533464288288",
+    "project_id": "pinjol-bunga-rendah-caf1d",
+    "storage_bucket": "pinjol-bunga-rendah-caf1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533464288288:android:5d9a06e09b9f657d2e8045",
+        "android_client_info": {
+          "package_name": "com.PinjolBungaRendah.MediaAppID"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533464288288-863h3vvvjrc01il5kamjemjtlaoj3e1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMyQzlOo3HBiYgWxY6E-41700R6bOSTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533464288288-863h3vvvjrc01il5kamjemjtlaoj3e1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
